@@ -1,4 +1,3 @@
-Animi, id est laborum et dolorum fuga.
 Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat. Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
 Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Fugiat quo voluptas nulla pariatur? Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
